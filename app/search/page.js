@@ -6,8 +6,8 @@ import Link from "next/link";
 import React, { useEffect, useMemo, useState } from "react";
 
 const page = () => {
-  const [search, setSearch] = useState("one piece");
-  const [debouncedSearch, setDebouncedSearch] = useState("one piece");
+  const [search, setSearch] = useState("tensura");
+  const [debouncedSearch, setDebouncedSearch] = useState("tensura");
   const queryKey = useMemo(() => [debouncedSearch], [debouncedSearch]);
 
   useEffect(() => {
@@ -60,7 +60,7 @@ const page = () => {
             ))}
           </div>
         ) : (
-          <div className="h-screen">No Data Found</div>
+          <div className="h-screen">makanya donasi lah anj</div>
         )}
       </div>
     </div>
