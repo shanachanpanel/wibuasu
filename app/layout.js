@@ -7,8 +7,8 @@ import MenuBar from "@/components/MenuBar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AnimeCine",
-  description: "Explore & enjoy",
+  title: "WIBUASU",
+  description: "Nonton anime subtitle Indonesia? cek aja langsung ke ranimev3.site",
 };
 
 export default function RootLayout({ children }) {
