@@ -40,7 +40,7 @@ const RecommendationList = ({
               ))}
             </div>
           ) : (
-            <div>No Data Found</div>
+            <div>baca komik di yomaid.vercel.app</div>
           )}
         </div>
       </main>
