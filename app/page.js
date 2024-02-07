@@ -25,7 +25,7 @@ export default function Home() {
             </h1>
             <h2 className="line-clamp-2 font-normal text-center mb-3 text-blue-300">
               Track, Share, and Discover your Favorite Anime and Manga with
-              Animecine
+              Wibuasu
             </h2>
           </div>
           <div className=" justify-items-center grid grid-cols-1 sm:grid-cols-2 gap-2 mx-auto">
